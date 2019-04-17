@@ -1,3 +1,3 @@
-# eYIC 2019 summer internship
+# Resume
 
-eYIC summer internship info
+resume for eYIC summer internship.
